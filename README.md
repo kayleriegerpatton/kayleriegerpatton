@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Kayle</h1>
+<h1 align="center">Kayle Rieger Patton</h1>
+<h2 align="center">Artist | Analyst | Advocate</h2>
 <h3 align="center">A developer-in-training passionate about visual art and accessibility</h3>
 
 - 📧 How to reach me: **kayle.patton22@gmail.com**
