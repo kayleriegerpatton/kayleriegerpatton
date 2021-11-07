@@ -2,7 +2,7 @@
 <h2 align="center">Artist | Analyst | Advocate</h2>
 <h3 align="center">A developer-in-training passionate about visual art and accessibility</h3>
 
-- 🖥️ Portfolio: https://kayleriegerpatton.github.io/personal-portfolio/
+- 🖥️ Portfolio: **https://kayleriegerpatton.github.io/personal-portfolio/**
 - 📧 Email: **kayle.patton22@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
