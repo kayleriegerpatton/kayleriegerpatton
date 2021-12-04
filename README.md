@@ -3,8 +3,8 @@
 <h3 align="center">A developer-in-training passionate about visual art and accessibility</h3>
 <p> I'm a Web-Developer-in-training driven by a background in arts and cultural accessibility to close the gaps in digital experience for disabled people. Pursuing an intensive certificate in Full Stack Web Development through the University of Birmingham, I've developed skills in CSS, HTML, JavaScript, and responsive web design, among others. As an artist, I bring creativity and an eye for visual design along with the determination and problem-solving abilities to accomplish any project. I look forward to supporting a values-driven team in making the web more beautifully inclusive.</p>
 
-- 🖥️ Portfolio: **https://kayleriegerpatton.github.io/personal-portfolio/**
-- 📧 Email: **kayle.patton22@gmail.com**
+- 🖥️  Portfolio: **https://kayleriegerpatton.github.io/personal-portfolio/**
+- 📧  Email: **kayle.patton22@gmail.com**
 - <a href=""><img src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" width="20" alt="Linkedin Logo" /></a> LinkedIn: **www.linkedin.com/in/kaylerieger**
 
 <h3 align="left">Languages and Tools:</h3>
