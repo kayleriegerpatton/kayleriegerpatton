@@ -21,6 +21,7 @@
   
 <h3 align="left">Other Tools:</h3>
 <p> 
+  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap logo" width="40" height="40"/> </a> 
   <a href="https://www.canva.com/en_gb/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva logo" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap logo" width="40" height="40"/> </a> 
+  <a href="https://www.chartjs.org/" target="_blank"> <img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="chart.js logo" width="40" height="40"/> </a> 
 </p>
