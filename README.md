@@ -1,7 +1,7 @@
 <h1 align="center">Kayle Rieger Patton</h1>
 <h2 align="center">Artist | Analyst | Advocate</h2>
 <h3 align="center">Web developer passionate about visual art and accessibility</h3>
-<p> I'm a web developer driven by a background in arts and cultural accessibility to close the gaps in digital experience for disabled people. Pursuing an intensive certificate in Full Stack Web Development through the University of Birmingham, I've developed skills in CSS, HTML, JavaScript, and responsive web design, among others. As an artist, I bring creativity and an eye for visual design along with the determination and problem-solving abilities to accomplish any project. I look forward to supporting a values-driven team in making the web more beautifully inclusive.</p>
+<p> I’m a full stack developer driven by a background in arts and cultural accessibility to close the gaps in digital experience for all people. Pursuing an intensive certificate in Full Stack Web Development through the University of Birmingham, I’ve developed skills in CSS, JavaScript, RESTful API development, MySQL databases, Git version control, and responsive web design. As an artist, I bring creativity and an eye for visual design along with the determination and problem-solving abilities to accomplish any project. I aspire to support a values-driven team in making the web more beautifully inclusive. </p>
 
 - 🖥️  Portfolio: **https://kayleriegerpatton.github.io/personal-portfolio/**
 - 📧  Email: **kayle.patton22@gmail.com**
