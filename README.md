@@ -4,7 +4,7 @@
 <p> I’m a full stack developer driven by a background in arts and cultural accessibility to close the gaps in digital experience for all people. Pursuing an intensive certificate in Full Stack Web Development through the University of Birmingham, I’ve developed skills in JavaScript, RESTful API development, MySQL and MongoDB databases, React, Git version control, and responsive web design. I’ve previously spearheaded wide-ranging accessibility initiatives within museums, earning national recognition by the Kennedy Center for Performing Arts’ Leadership Exchange in Arts and Disability. As an artist, I bring creativity and an eye for visual design along with the determination and problem-solving abilities to accomplish any project. I aspire to support a values-driven team in making the web more beautifully inclusive.
  </p>
 
-- 🌐  Portfolio: **www.tinyurl.com/kjrp-portfolio**
+- 🌐  Portfolio: **www.tinyurl.com/krp-portfolio**
 - 📧  Email: **kayle.patton22@gmail.com**
 - <a href="www.linkedin.com/in/kaylerieger"><img src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" width="20" alt="Linkedin Logo" /></a> LinkedIn: **www.linkedin.com/in/kaylerieger**
 
