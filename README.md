@@ -8,7 +8,7 @@
 - 📧  Email: **kayle.patton22@gmail.com**
 - <a href="www.linkedin.com/in/kaylerieger"><img src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" width="20" alt="Linkedin Logo" /></a> LinkedIn: **www.linkedin.com/in/kaylerieger**
 
-<h3 align="left">Developer Tools, Frameworks, Etc.:</h3>
+<h3 align="left">Tools & Technologies:</h3>
 <p> 
   <!--  Bootstrap  -->
   <a href="https://getbootstrap.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap logo" width="40" height="40"/> </a> 
