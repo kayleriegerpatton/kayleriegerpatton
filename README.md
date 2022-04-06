@@ -8,6 +8,10 @@
 - 📧  Email: **kayle.patton22@gmail.com**
 - <a href="www.linkedin.com/in/kaylerieger"><img src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" width="20" alt="Linkedin Logo" /></a> LinkedIn: **www.linkedin.com/in/kaylerieger**
 
+<p>&ensp;</p>
+<!-- Codewars badge -->
+ <a href="https://www.codewars.com/users/kayleriegerpatton" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/kayleriegerpatton/badges/micro" alt="Codewars micro badge"/> </a>
+ 
 <h3 align="left">Tools & Technologies, A-Z:</h3>
 <p> 
  <!-- Asana  -->
