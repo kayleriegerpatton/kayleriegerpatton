@@ -9,6 +9,9 @@
 - <a href="www.linkedin.com/in/kaylerieger"><img src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" width="20" alt="Linkedin Logo" /></a> LinkedIn: **www.linkedin.com/in/kaylerieger**
 
 <p>&ensp;</p>
+<!-- AWS Cloud Practitioner badge -->
+ <a href="https://www.credly.com/badges/7e1edbe4-7b40-4992-be8e-2c7c82091efd/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner badge" width="80" height="80"/> </a>
+ 
 <!-- Codewars badge -->
  <a href="https://www.codewars.com/users/kayleriegerpatton" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/kayleriegerpatton/badges/micro" alt="Codewars micro badge"/> </a>
  
@@ -24,12 +27,20 @@
   <a href="https://www.chartjs.org/" target="_blank"> <img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="chart.js logo" width="40" height="40"/> </a> 
 <!--  CSS  -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3 logo" width="40" height="40"/> </a>
- <!-- Git  --> <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git logo" width="40" height="40"/> </a>
-  <!-- HTML --> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5 logo" width="40" height="40"/> </a>
-<!-- GraphQL --><a href="https://graphql.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="GraphQL logo" width="40" height="40"/> </a>
-<!-- InDesign  --><a href="https://www.adobe.com/uk/products/indesign/landpb.html?mv=search&mv=search&sdid=LCDWTLJX&ef_id=Cj0KCQjwpcOTBhCZARIsAEAYLuV6Qeh2euytlXBjjVXzApQp8gxQB_egP6DsRPFphpN8R5UZtDRMZ0EaAqTsEALw_wcB:G:s&s_kwcid=AL!3085!3!340669726758!e!!g!!adobe%20indesign!1422699833!59976311430&gclid=Cj0KCQjwpcOTBhCZARIsAEAYLuV6Qeh2euytlXBjjVXzApQp8gxQB_egP6DsRPFphpN8R5UZtDRMZ0EaAqTsEALw_wcB" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/1024px-Adobe_InDesign_CC_icon.svg.png?20210519032020" alt="Adobe InDesign logo" width="40" height="40"/> </a>
-<!-- JS --> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="40" height="40"/> </a> 
- <!-- Jest --> <a href="https://jestjs.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest logo" width="40" height="40"/> </a>
+  <!-- Drawio -->
+  <a href="https://www.diagrams.net/" target="_blank"> <img src="https://images.ctfassets.net/3ouphkrynjol/IoSmRtVKmcM4WAmw02KCE/04cc2e708b6aeb565a81e54cba03cf3f/gidq2wpM.jpg" alt="Draw.io logo" width="40" height="40"/> </a>
+ <!-- Git  --> 
+ <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git logo" width="40" height="40"/> </a>
+  <!-- HTML --> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5 logo" width="40" height="40"/> </a>
+<!-- GraphQL -->
+<a href="https://graphql.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="GraphQL logo" width="40" height="40"/> </a>
+<!-- InDesign  -->
+<a href="https://www.adobe.com/uk/products/indesign/free-trial-download.html" target="_blank"> <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/indesign.svg" alt="Adobe InDesign logo" width="40" height="40"/> </a>
+<!-- JS --> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="40" height="40"/> </a> 
+ <!-- Jest --> 
+ <a href="https://jestjs.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest logo" width="40" height="40"/> </a>
  <!--  Material UI  -->
   <a href="https://mui.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/materialui/materialui-plain.svg" alt="Material UI logo" width="40" height="40"/> </a>
 <!--  MongoDB  -->
