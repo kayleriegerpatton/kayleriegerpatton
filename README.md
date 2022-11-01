@@ -1,6 +1,6 @@
 <h1 align="center">Kayle Rieger Patton</h1>
 <h2 align="center">Artist 🎨 | Analyst 📊 | Advocate ♿️ </h2>
-<h3 align="center">Full stack developer passionate about visual art and accessibility</h3>
+<h3 align="center">Full stack developer passionate about visual art, data, and accessibility</h3>
 <p> I’m a full stack developer driven by a background in arts and cultural accessibility to close the gaps in digital experience for all people. Through an intensive certificate in Full Stack Web Development through the University of Birmingham, I’ve developed skills in JavaScript, RESTful API development, MySQL and MongoDB databases, React, Apollo GraphQL and Express servers, Git version control, and responsive web design. I’ve previously spearheaded wide-ranging accessibility initiatives within museums, earning national recognition by the Kennedy Center for Performing Arts’ Leadership Exchange in Arts and Disability. As an artist, I bring creativity and an eye for visual design along with the determination and problem-solving abilities to accomplish any project. I aspire to support a values-driven team in making the web more beautifully inclusive.
  </p>
 
@@ -10,8 +10,8 @@
 
 <p>&ensp;</p>
 <!-- AWS Cloud Practitioner badge -->
- <a href="https://www.credly.com/badges/7e1edbe4-7b40-4992-be8e-2c7c82091efd/public_url" target="_blank" rel="noopener noreferrer"> <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner badge" width="80" height="80"/> </a>
- 
+ <a href="https://www.credly.com/badges/7e1edbe4-7b40-4992-be8e-2c7c82091efd/public_url" target="_blank" rel="noopener noreferrer"> <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner badge" width="80" height="80"/> </a>  
+<p></p>
 <!-- Codewars badge -->
  <a href="https://www.codewars.com/users/kayleriegerpatton" target="_blank" rel="noopener noreferrer"> <img src="https://www.codewars.com/users/kayleriegerpatton/badges/micro" alt="Codewars micro badge"/> </a>
  
