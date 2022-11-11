@@ -34,7 +34,7 @@
   <!-- HTML --> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5 logo" width="40" height="40"/> </a>
 <!-- GraphQL -->
-<a href="https://graphql.org/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="GraphQL logo" width="40" height="40"/> </a>
+<a href="https://graphql.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain.svg" alt="GraphQL logo" width="40" height="40"/> </a>
 <!-- InDesign  -->
 <a href="https://www.adobe.com/uk/products/indesign/free-trial-download.html" target="_blank" rel="noopener noreferrer"> <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/indesign.svg" alt="Adobe InDesign logo" width="40" height="40"/> </a>
 <!-- JS --> 
@@ -44,7 +44,7 @@
  <!--  Material UI  -->
   <a href="https://mui.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/materialui/materialui-plain.svg" alt="Material UI logo" width="40" height="40"/> </a>
 <!--  MongoDB  -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB logo" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB logo" width="40" height="40"/> </a>
 <!--  MySQL  -->
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL logo" width="40" height="40"/> </a>
 <!--  NodeJS  -->
