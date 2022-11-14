@@ -40,7 +40,7 @@
 <!-- JS --> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="40" height="40"/> </a> 
  <!-- Jest --> 
- <a href="https://jestjs.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest logo" width="40" height="40"/> </a>
+ <a href="https://jestjs.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" alt="jest logo" width="40" height="40"/> </a>
  <!--  Material UI  -->
   <a href="https://mui.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/materialui/materialui-plain.svg" alt="Material UI logo" width="40" height="40"/> </a>
 <!--  MongoDB  -->
