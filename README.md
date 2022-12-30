@@ -30,7 +30,7 @@
 <!--  CSS  -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3 logo" width="40" height="40"/> </a>
   <!-- Drawio -->
-  <a href="https://www.diagrams.net/" target="_blank" rel="noopener noreferrer"> <img src="https://images.ctfassets.net/3ouphkrynjol/IoSmRtVKmcM4WAmw02KCE/04cc2e708b6aeb565a81e54cba03cf3f/gidq2wpM.jpg" alt="Draw.io logo" width="40" height="40"/> </a>
+  <a href="https://www.diagrams.net/" target="_blank" rel="noopener noreferrer"> <img src="https://yt3.ggpht.com/ytc/AMLnZu-ItAScQV-9THj_C3tWFLfH2pYN5x3120QzZCar2A=s176-c-k-c0x00ffffff-no-rj" alt="Draw.io logo" width="40" height="40"/> </a>
  <!-- Git  --> 
  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git logo" width="40" height="40"/> </a>
   <!-- HTML --> 
