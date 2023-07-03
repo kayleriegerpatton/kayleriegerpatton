@@ -30,6 +30,8 @@
 <!--  CSS  -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3 logo" width="40" height="40"/> </a>
   <!-- Drawio -->
+  <a href="https://www.diagrams.net/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma logo" width="40" height="40"/> </a>
+   <!-- Figma -->
   <a href="https://www.diagrams.net/" target="_blank" rel="noopener noreferrer"> <img src="https://yt3.ggpht.com/ytc/AMLnZu-ItAScQV-9THj_C3tWFLfH2pYN5x3120QzZCar2A=s176-c-k-c0x00ffffff-no-rj" alt="Draw.io logo" width="40" height="40"/> </a>
  <!-- Git  --> 
  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git logo" width="40" height="40"/> </a>
