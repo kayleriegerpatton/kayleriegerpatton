@@ -1,4 +1,4 @@
-![linkedin](https://github.com/kayleriegerpatton/kayleriegerpatton/assets/86710295/3085e4e7-67e0-455e-a577-70ab9637a40f)<h1>Kayle Rieger Patton</h1>
+<h1>Kayle Rieger Patton</h1>
 <h2>Artist 🎨 | Analyst 📊 | Advocate ♿️ </h2>
 
 <h3>Full stack developer passionate about visual art, data, and accessibility</h3>
