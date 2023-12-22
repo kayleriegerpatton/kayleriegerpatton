@@ -12,60 +12,77 @@
 <a href="https://www.codewars.com/users/kayleriegerpatton" target="_blank" rel="noopener noreferrer"> <img src="https://www.codewars.com/users/kayleriegerpatton/badges/micro" alt="Codewars micro badge"/> </a>
 
 ## Full stack developer passionate about visual art, data, and accessibility
-<p> I’m a full stack developer driven by a background in arts and cultural accessibility to close the gaps in digital experience for all people. Through an intensive certificate in Full Stack Web Development through the University of Birmingham, I developed skills in JavaScript, RESTful API development, MySQL and MongoDB databases, React, GraphQL, Express, Git version control, and responsive web design. </p>
+I’m a full stack developer driven by a background in arts and cultural accessibility to close the gaps in digital experience for all people. Through an intensive certificate in Full Stack Web Development through the University of Birmingham, I developed skills in JavaScript, RESTful API development, MySQL and MongoDB databases, React, GraphQL, Express, Git version control, and responsive web design.
 
-<p> I’ve previously spearheaded wide-ranging accessibility initiatives within museums, earning national recognition by the Kennedy Center for Performing Arts’ Leadership Exchange in Arts and Disability (<a href="https://www.kennedy-center.org/education/networks-conferences-and-research/conferences-and-events/lead-conference/">LEAD</a>®). As an artist, I bring creativity and an eye for visual design along with the determination and problem-solving abilities to accomplish any project. I aspire to support a values-driven team in making the web more beautifully inclusive.
- </p>
+I’ve previously spearheaded wide-ranging accessibility initiatives within museums, earning national recognition by the Kennedy Center for Performing Arts’ Leadership Exchange in Arts and Disability (<a href="https://www.kennedy-center.org/education/networks-conferences-and-research/conferences-and-events/lead-conference/">LEAD</a>®). As an artist, I bring creativity and an eye for visual design along with the determination and problem-solving abilities to accomplish any project. I aspire to support a values-driven team in making the web more beautifully inclusive.
 
 ## GitHub Stats
 
 [![Kayles's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayleriegerpatton&show_icons=true&theme=aura&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Kayle's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kayleriegerpatton&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
- <a href="https://www.credly.com/badges/7e1edbe4-7b40-4992-be8e-2c7c82091efd/public_url" target="_blank" rel="noopener noreferrer"> <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner badge" width="125" height="125"/> </a>
 
 
-<h3 align="left">Tools & Technologies, A-Z:</h3>
-<p>
- <!-- Asana  -->
- <a href="https://asana.com/" target="_blank" rel="noopener noreferrer"> <img src="https://pngset.com/images/asana-logo-svg-light-traffic-light-balloon-transparent-png-1029100.png" alt="Asana logo" width="40" height="40"/> </a>
-  <!--  Bootstrap  -->
-  <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap logo" width="40" height="40"/> </a>
-  <!--  Canva  -->
-  <a href="https://www.canva.com/en_gb/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva logo" width="40" height="40"/> </a>
-  <!--  Chart.js  -->
-  <a href="https://www.chartjs.org/" target="_blank" rel="noopener noreferrer"> <img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="chart.js logo" width="40" height="40"/> </a>
-<!--  CSS  -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3 logo" width="40" height="40"/> </a>
-  <!-- Drawio -->
-  <a href="https://www.diagrams.net/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma logo" width="40" height="40"/> </a>
-   <!-- Figma -->
-  <a href="https://www.diagrams.net/" target="_blank" rel="noopener noreferrer"> <img src="https://yt3.ggpht.com/ytc/AMLnZu-ItAScQV-9THj_C3tWFLfH2pYN5x3120QzZCar2A=s176-c-k-c0x00ffffff-no-rj" alt="Draw.io logo" width="40" height="40"/> </a>
- <!-- Git  -->
- <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git logo" width="40" height="40"/> </a>
-  <!-- HTML -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5 logo" width="40" height="40"/> </a>
-<!-- GraphQL -->
-<a href="https://graphql.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain.svg" alt="GraphQL logo" width="40" height="40"/> </a>
-<!-- InDesign  -->
-<a href="https://www.adobe.com/uk/products/indesign/free-trial-download.html" target="_blank" rel="noopener noreferrer"> <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/indesign.svg" alt="Adobe InDesign logo" width="40" height="40"/> </a>
-<!-- JS -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="40" height="40"/> </a>
- <!-- Jest -->
- <a href="https://jestjs.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" alt="jest logo" width="40" height="40"/> </a>
- <!--  Material UI  -->
-  <a href="https://mui.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/materialui/materialui-plain.svg" alt="Material UI logo" width="40" height="40"/> </a>
-<!--  MongoDB  -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB logo" width="40" height="40"/> </a>
-<!--  MySQL  -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL logo" width="40" height="40"/> </a>
-<!--  NodeJS  -->
-  <a href="https://nodejs.org/en/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js logo" width="40" height="40"/> </a>
-  <!-- Postman -->
-<a href="https://postman.com" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman logo" width="40" height="40"/> </a>
-<!-- React -->
-<a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js logo" width="40" height="40"/> </a>
-  </p>
+## Tools & Technologies:
+### Languages:
+![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+
+### Front-End:
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=black)
+![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chart.js&logoColor=white)
+
+### UX/UI & Design:
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/-InDesign-FF3366?logo=adobe-indesign&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
+
+### Back-End & Databases:
+![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?&logo=node.js&logoColor=white)
+![GraphQL](http://img.shields.io/badge/-GraphQL-E10098?&logo=graphql&logoColor=white)
+![Apollo Graphql](http://img.shields.io/badge/-Apollo%20GraphQL-311C87?&logo=apollographql&logoColor=white)
+![DynamoDB](http://img.shields.io/badge/-AWS%20DynamoDB-4053D6?&logo=amazondynamodb&logoColor=white)
+![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?&logo=mongodb&logoColor=white)
+![MySQL](http://img.shields.io/badge/-MySQL-4479A1?&logo=mysql&logoColor=white)
+
+### QA & Testing:
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white)
+
+### Cloud Services:
+ <a href="https://www.credly.com/badges/7e1edbe4-7b40-4992-be8e-2c7c82091efd/public_url" target="_blank" rel="noopener noreferrer"> <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner badge" width="75" height="75"/> </a>
+
+<!-- aws ( sns, codebuild, codepipeline, sdk, cloudformation) -->
+![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?logo=amazonaws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?logo=awslambda&logoColor=black)
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?logo=amazons3&logoColor=white)
+![AWS CloudWatch](https://img.shields.io/badge/-AWS%20CloudWatch-FF4F8B?logo=amazoncloudwatch&logoColor=white)
+
+
+
+### Dev Tools:
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
+
+### Business & Collaboration:
+![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
+![Asana](https://img.shields.io/badge/-Asana-F06A6A?logo=asana&logoColor=white)
+![Miro](https://img.shields.io/badge/-Miro-FFD02F?logo=miro&logoColor=black)
+
+### 🌱 Looking to Learn/Improve:
+![Digital Accessibility](https://img.shields.io/badge/-Digital%20Accessibility-165A9C?logo=actigraph&logoColor=white)
+![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-E33332?logo=testinglibrary&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+
 
 <a href="https://badges.pufler.dev">
     <img align="right" src="https://badges.pufler.dev/visits/kayleriegerpatton/kayleriegerpatton?color=A277FF" alt="Visitor count badge" />
