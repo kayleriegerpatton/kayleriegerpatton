@@ -51,6 +51,7 @@ I’ve previously spearheaded wide-ranging accessibility initiatives within muse
 
 ### QA & Testing:
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
+![Standard](https://img.shields.io/badge/-Standard-F3DF49?logo=standardjs&logoColor=black)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white)
 
 ### Cloud Services:
