@@ -1,31 +1,30 @@
 # Kayle Rieger Patton
-## Artist 🎨 | Analyst 📊 | Advocate ♿️
 
- <a href="www.linkedin.com/in/kaylerieger" target="_blank" rel="noopener noreferrer"> <img src="./linkedin.svg" alt="" width="25" /> </a> 
+[<img align="left" alt="linkedin" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="email" width="22px" src="./email.svg" />][email]
 
-### Full stack developer passionate about visual art, data, and accessibility
+[linkedin]: https://www.linkedin.com/in/kayleriegerpatton/
+[email]: mailto:kayle.patton22@gmail.com
+<br>
+
+<a href="https://www.codewars.com/users/kayleriegerpatton" target="_blank" rel="noopener noreferrer"> <img src="https://www.codewars.com/users/kayleriegerpatton/badges/micro" alt="Codewars micro badge"/> </a>
+
+## Full stack developer passionate about visual art, data, and accessibility
 <p> I’m a full stack developer driven by a background in arts and cultural accessibility to close the gaps in digital experience for all people. Through an intensive certificate in Full Stack Web Development through the University of Birmingham, I developed skills in JavaScript, RESTful API development, MySQL and MongoDB databases, React, GraphQL, Express, Git version control, and responsive web design. </p>
 
 <p> I’ve previously spearheaded wide-ranging accessibility initiatives within museums, earning national recognition by the Kennedy Center for Performing Arts’ Leadership Exchange in Arts and Disability (<a href="https://www.kennedy-center.org/education/networks-conferences-and-research/conferences-and-events/lead-conference/">LEAD</a>®). As an artist, I bring creativity and an eye for visual design along with the determination and problem-solving abilities to accomplish any project. I aspire to support a values-driven team in making the web more beautifully inclusive.
  </p>
 
-<!--Github stats & aws certification -->
-GitHub Stats
+## GitHub Stats
 
 [![Kayles's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayleriegerpatton&show_icons=true&theme=aura&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Kayle's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kayleriegerpatton&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
 - 🌐  Portfolio: **www.tinyurl.com/krp-portfolio**
-- 📧  Email: **kayle.patton22@gmail.com**
-- <a href="www.linkedin.com/in/kaylerieger"><img src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" width="20" alt="Linkedin Logo" /></a> LinkedIn: **www.linkedin.com/in/kaylerieger**
 
  <a href="https://www.credly.com/badges/7e1edbe4-7b40-4992-be8e-2c7c82091efd/public_url" target="_blank" rel="noopener noreferrer"> <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner badge" width="125" height="125"/> </a> 
- 
-<!-- Codewars badge -->
- <a href="https://www.codewars.com/users/kayleriegerpatton" target="_blank" rel="noopener noreferrer"> <img src="https://www.codewars.com/users/kayleriegerpatton/badges/micro" alt="Codewars micro badge"/> </a>
+
  
 <h3 align="left">Tools & Technologies, A-Z:</h3>
 <p> 
@@ -67,7 +66,9 @@ GitHub Stats
 <a href="https://postman.com" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman logo" width="40" height="40"/> </a>
 <!-- React -->
 <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js logo" width="40" height="40"/> </a>
-
   </p>
 
+<a href="https://badges.pufler.dev">
+    <img align="right" src="https://badges.pufler.dev/visits/kayleriegerpatton/kayleriegerpatton?color=A277FF" alt="Visitor count badge" />
+ </a>
 
