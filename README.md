@@ -1,7 +1,9 @@
-<h1>Kayle Rieger Patton</h1>
-<h2>Artist 🎨 | Analyst 📊 | Advocate ♿️ </h2>
+# Kayle Rieger Patton
+## Artist 🎨 | Analyst 📊 | Advocate ♿️
 
-<h3>Full stack developer passionate about visual art, data, and accessibility</h3>
+ <a href="www.linkedin.com/in/kaylerieger" target="_blank" rel="noopener noreferrer"> <img src="./linkedin.svg" alt="" width="25" /> </a> 
+
+### Full stack developer passionate about visual art, data, and accessibility
 <p> I’m a full stack developer driven by a background in arts and cultural accessibility to close the gaps in digital experience for all people. Through an intensive certificate in Full Stack Web Development through the University of Birmingham, I developed skills in JavaScript, RESTful API development, MySQL and MongoDB databases, React, GraphQL, Express, Git version control, and responsive web design. </p>
 
 <p> I’ve previously spearheaded wide-ranging accessibility initiatives within museums, earning national recognition by the Kennedy Center for Performing Arts’ Leadership Exchange in Arts and Disability (<a href="https://www.kennedy-center.org/education/networks-conferences-and-research/conferences-and-events/lead-conference/">LEAD</a>®). As an artist, I bring creativity and an eye for visual design along with the determination and problem-solving abilities to accomplish any project. I aspire to support a values-driven team in making the web more beautifully inclusive.
