@@ -1,5 +1,5 @@
 # Kayle Rieger Patton
-
+## Full stack developer passionate about visual art, data, and accessibility
 [<img align="left" alt="linkedin" title="Kayle on Linkedin" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="email" title="kayle.patton22@gmail.com" width="22px" src="./email.svg" />][email]
 [<img align="left" alt="portfolio"  title="Kayle's portfolio" width="22px" src="./webpage.svg" />][portfolio]
@@ -11,7 +11,6 @@
 
 <a href="https://www.codewars.com/users/kayleriegerpatton" target="_blank" rel="noopener noreferrer"> <img src="https://www.codewars.com/users/kayleriegerpatton/badges/micro" alt="Codewars micro badge"/> </a>
 
-## Full stack developer passionate about visual art, data, and accessibility
 I’m a full stack developer driven by a background in arts and cultural accessibility to close the gaps in digital experience for all people. Through an intensive certificate in Full Stack Web Development through the University of Birmingham, I developed skills in JavaScript, RESTful API development, MySQL and MongoDB databases, React, GraphQL, Express, Git version control, and responsive web design.
 
 I’ve previously spearheaded wide-ranging accessibility initiatives within museums, earning national recognition by the Kennedy Center for Performing Arts’ Leadership Exchange in Arts and Disability (<a href="https://www.kennedy-center.org/education/networks-conferences-and-research/conferences-and-events/lead-conference/">LEAD</a>®). As an artist, I bring creativity and an eye for visual design along with the determination and problem-solving abilities to accomplish any project. I aspire to support a values-driven team in making the web more beautifully inclusive.
@@ -20,8 +19,6 @@ I’ve previously spearheaded wide-ranging accessibility initiatives within muse
 
 [![Kayles's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayleriegerpatton&show_icons=true&theme=aura&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Kayle's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kayleriegerpatton&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ## Tools & Technologies:
 ### Languages:
@@ -57,13 +54,11 @@ I’ve previously spearheaded wide-ranging accessibility initiatives within muse
 ### Cloud Services:
  <a href="https://www.credly.com/badges/7e1edbe4-7b40-4992-be8e-2c7c82091efd/public_url" target="_blank" rel="noopener noreferrer"> <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner badge" width="75" height="75"/> </a>
 
-<!-- aws ( sns, codebuild, codepipeline, sdk, cloudformation) -->
 ![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?logo=amazonaws&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?logo=awslambda&logoColor=black)
 ![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?logo=amazons3&logoColor=white)
 ![AWS CloudWatch](https://img.shields.io/badge/-AWS%20CloudWatch-FF4F8B?logo=amazoncloudwatch&logoColor=white)
-
-
+- CloudFormation, CodeBuild, CodePipeline, IAM, SNS 
 
 ### Dev Tools:
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
@@ -84,8 +79,6 @@ I’ve previously spearheaded wide-ranging accessibility initiatives within muse
 ![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-E33332?logo=testinglibrary&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 
-
 <a href="https://badges.pufler.dev">
     <img align="right" src="https://badges.pufler.dev/visits/kayleriegerpatton/kayleriegerpatton?color=A277FF" alt="Visitor count badge" />
  </a>
-
