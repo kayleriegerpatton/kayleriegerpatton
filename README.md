@@ -66,6 +66,7 @@ I’ve previously spearheaded wide-ranging accessibility initiatives within muse
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 ### Business & Collaboration:
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)
