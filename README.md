@@ -11,9 +11,11 @@
 
 <a href="https://www.codewars.com/users/kayleriegerpatton" target="_blank" rel="noopener noreferrer"> <img src="https://www.codewars.com/users/kayleriegerpatton/badges/micro" alt="Codewars micro badge"/> </a>
 
-I’m a full stack developer driven by a background in arts and cultural accessibility to close the gaps in digital experience for all people. Through an intensive certificate in Full Stack Web Development through the University of Birmingham, I developed skills in JavaScript, RESTful API development, MySQL and MongoDB databases, React, GraphQL, Express, Git version control, and responsive web design.
+Hi, I’m Kayle (KAY-lee). I’m a full stack JavaScript software engineer. I have experience working across the full stack including React on the front end and Node on the back end. I also have experience building infrastructure as code with AWS, and have completed the AWS Cloud Practitioner certification.  
 
-I’ve previously spearheaded wide-ranging accessibility initiatives within museums, earning national recognition by the Kennedy Center for Performing Arts’ Leadership Exchange in Arts and Disability (<a href="https://www.kennedy-center.org/education/networks-conferences-and-research/conferences-and-events/lead-conference/">LEAD</a>®). As an artist, I bring creativity and an eye for visual design along with the determination and problem-solving abilities to accomplish any project. I aspire to support a values-driven team in making the web more beautifully inclusive.
+Before training as a software developer I was an arts educator and accessibility advocate in the museum field where I earned national recognition from the Kennedy Center’s Leadership Exchange in Arts and Disability ([LEAD®](https://www.kennedy-center.org/education/networks-conferences-and-research/conferences-and-events/lead-conference/)). In addition to being passionate about accessibility and user experience, I have strong interpersonal and creative problem-solving skills. My successful career change to software development also exemplifies my adaptability and rapid learning. 
+
+I’m passionate about accessibility, great design, and even better user experiences. I bring an eye for design and a heart for people to everything I do.
 
 ## GitHub Stats
 
