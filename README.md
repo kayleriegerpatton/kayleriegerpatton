@@ -19,8 +19,8 @@ I’m passionate about accessibility, great design, and even better user experie
 
 ## GitHub Stats
 
-[![Kayles's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayleriegerpatton&show_icons=true&theme=aura&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Kayle's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kayleriegerpatton&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+[![Kayles's GitHub stats](https://github-readme-stats-six-iota-98.vercel.app/api?username=kayleriegerpatton&show_icons=true&theme=aura&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Kayle's GitHub Top Languages](https://github-readme-stats-six-iota-98.vercel.app/api/top-langs/?username=kayleriegerpatton&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tools & Technologies:
 ### Languages:
