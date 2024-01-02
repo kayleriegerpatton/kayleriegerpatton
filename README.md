@@ -18,7 +18,7 @@ Before training as a software developer I was an arts educator and accessibility
 I’m passionate about accessibility, great design, and even better user experiences. I bring an eye for design and a heart for people to everything I do.
 
 ## GitHub Stats
-
+<!-- Thanks to github.com/anuraghazra/github-readme-stats -->
 [![Kayles's GitHub stats](https://github-readme-stats-six-iota-98.vercel.app/api?username=kayleriegerpatton&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 [![Kayle's GitHub Top Languages](https://github-readme-stats-six-iota-98.vercel.app/api/top-langs/?username=kayleriegerpatton&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
