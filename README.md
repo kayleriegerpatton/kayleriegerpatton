@@ -4,7 +4,7 @@
 [<img align="left" alt="email" title="kayle.patton22@gmail.com" width="22px" src="./email.svg" />][email]
 [<img align="left" alt="portfolio"  title="Kayle's portfolio" width="22px" src="./webpage.svg" />][portfolio]
 
-[linkedin]: https://www.linkedin.com/in/kayleriegerpatton/
+[linkedin]: https://www.linkedin.com/in/kaylerieger/
 [email]: mailto:kayle.patton22@gmail.com
 [portfolio]: https://www.tinyurl.com/krp-portfolio
 <br>
