@@ -6,7 +6,7 @@
 
 [linkedin]: https://www.linkedin.com/in/kayleriegerpatton/
 [email]: mailto:kayle.patton22@gmail.com
-[portfolio]: www.tinyurl.com/krp-portfolio
+[portfolio]: https://www.tinyurl.com/krp-portfolio
 <br>
 
 <a href="https://www.codewars.com/users/kayleriegerpatton" target="_blank" rel="noopener noreferrer"> <img src="https://www.codewars.com/users/kayleriegerpatton/badges/micro" alt="Codewars micro badge"/> </a>
