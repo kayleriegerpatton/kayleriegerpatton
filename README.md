@@ -25,7 +25,7 @@ I’m passionate about accessibility, great design, and even better user experie
 ## Tools & Technologies:
 ### Languages:
 ![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?logo=javascript&logoColor=black)
-![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+<!-- ![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) -->
 
 ### Front-End:
 ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=black)
