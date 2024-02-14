@@ -75,6 +75,7 @@ I’m passionate about accessibility, great design, and even better user experie
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 ![Asana](https://img.shields.io/badge/-Asana-F06A6A?logo=asana&logoColor=white)
 ![Miro](https://img.shields.io/badge/-Miro-FFD02F?logo=miro&logoColor=black)
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white)
 
 ### 🌱 Looking to Learn/Improve:
 ![Digital Accessibility](https://img.shields.io/badge/-Digital%20Accessibility-165A9C?logo=actigraph&logoColor=white)
