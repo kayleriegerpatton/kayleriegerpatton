@@ -50,6 +50,7 @@ I’m passionate about accessibility, great design, and even better user experie
 
 ### QA & Testing:
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-E33332?logo=testinglibrary&logoColor=white)
 ![Standard](https://img.shields.io/badge/-Standard-F3DF49?logo=standardjs&logoColor=black)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white)
 
