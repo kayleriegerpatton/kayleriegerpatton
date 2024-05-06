@@ -86,5 +86,8 @@ I’m passionate about accessibility, great design, and even better user experie
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 <a href="https://badges.pufler.dev">
-    <img align="right" src="https://badges.pufler.dev/visits/kayleriegerpatton/kayleriegerpatton?color=A277FF" alt="Visitor count badge" />
+    <img align="right" src="https://badges.pufler.dev/visits/kayleriegerpatton/kayleriegerpatton?color=4d2bc8" alt="Visitor count badge" />
  </a>
+<a href="https://badges.pufler.dev">
+<img align="right" src="https://badges.pufler.dev/updated/kayleriegerpatton/kayleriegerpatton?color=4d2bc8" alt="Updated badge" />
+</a>
