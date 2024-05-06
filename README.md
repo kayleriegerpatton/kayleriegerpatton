@@ -58,7 +58,7 @@ I’m passionate about accessibility, great design, and even better user experie
  <a href="https://www.credly.com/badges/7e1edbe4-7b40-4992-be8e-2c7c82091efd/public_url" target="_blank" rel="noopener noreferrer"> <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner badge" width="75" height="75"/> </a>
 
 ![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?logo=amazonaws&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?logo=awslambda&logoColor=black)
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?logo=awslambda&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?logo=amazons3&logoColor=white)
 ![AWS CloudWatch](https://img.shields.io/badge/-AWS%20CloudWatch-FF4F8B?logo=amazoncloudwatch&logoColor=white)
 - CloudFormation, CodeBuild, CodePipeline, IAM, SNS 
