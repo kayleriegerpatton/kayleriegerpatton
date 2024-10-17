@@ -11,11 +11,11 @@
 
 <a href="https://www.codewars.com/users/kayleriegerpatton" target="_blank" rel="noopener noreferrer"> <img src="https://www.codewars.com/users/kayleriegerpatton/badges/micro" alt="Codewars micro badge"/> </a>
 
-Hi, I’m Kayle (KAY-lee). I’m a full stack JavaScript software engineer. I have experience working across the full stack including React on the front end and Node on the back end. I also have experience building infrastructure as code with AWS, and have completed the AWS Cloud Practitioner certification.  
+Hi, I’m Kayle (KAY-lee). I'm a full stack software engineer and former arts accessibility specialist.
 
-Before training as a software developer I was an arts educator and accessibility advocate in the museum field where I earned national recognition from the Kennedy Center’s Leadership Exchange in Arts and Disability ([LEAD®](https://www.kennedy-center.org/education/networks-conferences-and-research/conferences-and-events/lead-conference/)). In addition to being passionate about accessibility and user experience, I have strong interpersonal and creative problem-solving skills. My successful career change to software development also exemplifies my adaptability and rapid learning. 
+I took the leap into tech by leveraging my creativity, problem-solving, and adaptability. I've since developed desktop apps and cloud-based services using JavaScript, TypeScript, React, Node.js, GraphQL, Jest, and AWS. I'm also skilled in advocating for inclusive web design practices, such as WCAG, to enhance user experiences.
 
-I’m passionate about accessibility, great design, and even better user experiences. I bring an eye for design and a heart for people to everything I do.
+As a former artist and disability advocate, I bring unique perspectives and dedication to creating exceptional customer experiences. I'm eager to contribute to values-driven teams to further expand my skills and drive meaningful impact through cross-functional collaboration.
 
 ## GitHub Stats
 <!-- Thanks to github.com/anuraghazra/github-readme-stats -->
@@ -25,9 +25,10 @@ I’m passionate about accessibility, great design, and even better user experie
 ## Tools & Technologies:
 ### Languages:
 ![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?logo=javascript&logoColor=black)
-<!-- ![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) -->
+![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
 ### Front-End:
+![Digital Accessibility](https://img.shields.io/badge/-Digital%20Accessibility-165A9C?logo=actigraph&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=black)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?logo=mui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
@@ -82,7 +83,6 @@ I’m passionate about accessibility, great design, and even better user experie
 ![Digital Accessibility](https://img.shields.io/badge/-Digital%20Accessibility-165A9C?logo=actigraph&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-E33332?logo=testinglibrary&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 <a href="https://badges.pufler.dev">
