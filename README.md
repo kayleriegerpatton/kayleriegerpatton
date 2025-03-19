@@ -80,10 +80,10 @@ As a former artist and disability advocate, I bring unique perspectives and dedi
 ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white)
 
 ### 🌱 Looking to Learn/Improve:
-![Digital Accessibility](https://img.shields.io/badge/-Digital%20Accessibility-165A9C?logo=actigraph&logoColor=white)
-![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-E33332?logo=testinglibrary&logoColor=white)
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus)
+
 
 <a href="https://badges.pufler.dev">
     <img align="right" src="https://badges.pufler.dev/visits/kayleriegerpatton/kayleriegerpatton?color=4d2bc8" alt="Visitor count badge" />
