@@ -85,9 +85,10 @@ As a former artist and disability advocate, I bring unique perspectives and dedi
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus)
 
 
+<!-- no longer working:
 <a href="https://badges.pufler.dev">
     <img align="right" src="https://badges.pufler.dev/visits/kayleriegerpatton/kayleriegerpatton?color=4d2bc8" alt="Visitor count badge" />
  </a>
 <a href="https://badges.pufler.dev">
 <img align="right" src="https://badges.pufler.dev/updated/kayleriegerpatton/kayleriegerpatton?color=4d2bc8" alt="Updated badge" />
-</a>
+</a> --> 
