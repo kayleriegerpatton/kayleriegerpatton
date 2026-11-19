@@ -17,10 +17,10 @@ I took the leap into tech by leveraging my creativity, problem-solving, and adap
 
 As a former artist and disability advocate, I bring unique perspectives and dedication to creating exceptional customer experiences. I'm eager to contribute to values-driven teams to further expand my skills and drive meaningful impact through cross-functional collaboration.
 
-## GitHub Stats
-<!-- Thanks to github.com/anuraghazra/github-readme-stats -->
-[![Kayles's GitHub stats](https://github-readme-stats-six-iota-98.vercel.app/api?username=kayleriegerpatton&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
-[![Kayle's GitHub Top Languages](https://github-readme-stats-six-iota-98.vercel.app/api/top-langs/?username=kayleriegerpatton&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Stats*
+*Excluding company repos  
+[![Kayles's GitHub stats](https://github-stats-extended.vercel.app/api?username=kayleriegerpatton&show_icons=true&theme=aura)](https://github.com/stats-organization/github-stats-extended)
+[![Kayle's GitHub Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=kayleriegerpatton&layout=compact&theme=aura)](https://github.com/stats-organization/github-stats-extended)
 
 ## Tools & Technologies:
 ### Languages:
